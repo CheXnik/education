@@ -1,0 +1,13 @@
+__pycache__/
+
+.idea/
+
+# Environments
+.env
+env/
+
+db.sqbpro
+db.db
+
+desktop.ini
+
